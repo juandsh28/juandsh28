@@ -32,4 +32,4 @@ Soy un estudiante de informática apasionado por escribir código, resolver prob
 - Figma, Git, GitHub, Wordpress, VS Code, Visual Studio, Netbeans.
 
 ### 🛠 Puedes encontrarme en:
-- [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+- [Sitio Web](https://juandiaz.tech) [Behance](https://www.behance.net/juandiazsh28) [LinkedIn]([https://www.behance.net/juandiazsh28](https://www.linkedin.com/in/juandiazsh28))

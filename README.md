@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 Soy un estudiante de informática apasionado por escribir código, resolver problemas, automatizar cosas y crear software.
 
+### ✔️ Interesado en:
+- Desarrollo Frontend, Diseño Web, Administración de bases de datos.
+
 ### ⚡ Lenguajes que actualmente estoy aprendiendo:
 - HTML5, CSS3, Bootstrap, JavaScript, TypeScript React js, Node js, Express js, Php, Java.
 

@@ -32,4 +32,4 @@ Soy un estudiante de informática apasionado por escribir código, resolver prob
 - Figma, Git, GitHub, Wordpress, VS Code, Visual Studio, Netbeans.
 
 ### 📫 Puedes encontrarme en:
-- [Sitio Web](https://juandiaz.tech), [Behance](https://www.behance.net/juandiazsh28), [Linkedin](https://www.linkedin.com/in/juandiazsh28), [Gmail](mailto:juandiazcode@gmail.com)
+- [Sitio Web](https://juandiaz.tech) , [Behance](https://www.behance.net/juandiazsh28) , [Linkedin](https://www.linkedin.com/in/juandiazsh28) , [Gmail](mailto:juandiazcode@gmail.com)

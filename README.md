@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <img width="35%" align="right" alt="imagen" src="https://lookmyweb.co/wp-content/uploads/2022/07/developer.gif" />
 
 Soy un estudiante de informática apasionado por escribir código, resolver problemas, automatizar cosas y crear software.
+
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS

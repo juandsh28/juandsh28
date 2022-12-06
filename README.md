@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="35%" align="right" alt="imagen" src="https://media.giphy.com/media/c0Jwn0I22a3XHgPaft/giphy.gif" />
+<img width="35%" align="right" alt="imagen" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 
 Soy un estudiante de informática apasionado por escribir código, resolver problemas, automatizar cosas y crear software.

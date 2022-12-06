@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 Soy un estudiante de informática apasionado por escribir código, resolver problemas, automatizar cosas y crear software.
 
-### ✔️ Actualmente estoy aprendiendo:
-- JavaScript, React js, React Native, Php, Java.
+### ⚡ Lenguajes que actualmente estoy aprendiendo:
+- HTML5, CSS3, Bootstrap, JavaScript, TypeScript React js, Node js, Express js, Php, Java.
 
-### ✔️ Actualmente estoy aprendiendo:
-- JavaScript, React js, React Native, Php, Java.
+### 💡 Bases de datos SQL que utilizo al crear proyectos:
+- MySQL, SQL Server, Oracle.
+
+### 🛠 Otras herramientas que uso habitualmente:
+- Figma, Git, GitHub, Wordpress, VS Code, Visual Studio, Netbeans.

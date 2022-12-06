@@ -1,4 +1,4 @@
-### ¡Bienvenido a mi GitHub! Soy Juan Diaz.👋
+### ¡Bienvenido a mi GitHub! Mi nombre es Juan Diaz.👋
 
 <!--
 **juandiazsh28/juandiazsh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

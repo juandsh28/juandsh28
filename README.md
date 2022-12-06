@@ -30,3 +30,6 @@ Soy un estudiante de informática apasionado por escribir código, resolver prob
 
 ### 🛠 Otras herramientas que uso habitualmente:
 - Figma, Git, GitHub, Wordpress, VS Code, Visual Studio, Netbeans.
+
+### 🛠 Puedes encontrarme en:
+- [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)

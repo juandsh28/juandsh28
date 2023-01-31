@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Soy un estudiante de informática apasionado por escribir código, resolver problemas, automatizar cosas y crear software.
 
 ### ✔️ Interesado en:
-- Desarrollo Frontend, Diseño Web, Administración de bases de datos.
+- Desarrollo Frontend, Diseño Web, Diseño y creación de bases de datos.
 
 ### ⚡ Lenguajes que actualmente estoy aprendiendo:
 - HTML5, CSS3, Bootstrap, JavaScript, TypeScript React js, Node js, Express js, Php, Java.
@@ -32,4 +32,4 @@ Soy un estudiante de informática apasionado por escribir código, resolver prob
 - Figma, Git, GitHub, Wordpress, VS Code, Visual Studio, Netbeans.
 
 ### 📫 Puedes encontrarme en:
-- [Sitio Web](https://juandiaz.tech) , [Behance](https://www.behance.net/juandiazsh28) , [Linkedin](https://www.linkedin.com/in/juandiazsh28) , [Gmail](mailto:juandiazcode@gmail.com)
+- [Sitio Web](https://juandiaz.tech) , [Behance](https://www.behance.net/juandiazsh28) , [Linkedin](https://www.linkedin.com/in/juandiazsh28) , [Gmail](mailto:juandiaz.studio@gmail.com)
